@@ -3,6 +3,8 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=400&lines=Computer+science+student;From+Russia" alt="Typing SVG" />
 </h3>
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--
 **GrigorevIvan/GrigorevIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
