@@ -28,20 +28,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigorevIvan&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GrigorevIvan&theme=radical&hide_border=true&background=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigorevIvan&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
+
+</div>
+
+---
+
 ## 📫 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-ivangrigr2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangrigr2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrigorevIvan)
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigorevIvan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigorevIvan&layout=compact&theme=radical)
-
-</div>
 
 ---
 
