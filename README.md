@@ -1,5 +1,5 @@
 <div align="center">
-
+![Аватарка](https://api.dicebear.com/7.x/identicon/svg?seed=GrigorevIvan)
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=gradient&reversal=true&text=Grigorev+Ivan&fontSize=30&fontColor=000000" width="100%"/>
 
 ### 👨‍💻 Computer Science Student | Russia
