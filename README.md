@@ -1,10 +1,8 @@
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808t61c3f2dc7e695c7c1n2eb1gs3d/header.svg" width="100%"/>](https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&reversal=true&section=header&fontAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&reversal=true" width="100%"/>
 
-# 🚀 Grigorev Ivan
-
-### 👨‍💻 Computer Science Student | 🇷🇺 Russia
+### 👨‍💻 Computer Science Student | Russia
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00D4FF&center=true&vCenter=true&width=450&lines=IT+Student;Always+Learning+New+Tech)
 
