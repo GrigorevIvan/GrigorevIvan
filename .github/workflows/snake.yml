@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: GrigorevIvan
           outputs: |
-            dist/github-snake.svg?color_snake=00ff5b&color_dots=0d1117,161b22,39d353,00ff5b,00ff5b&grid=1&background=0d1117&grid_color=30363d
+            dist/github-snake.svg?color_snake=#8B5CF6&color_dots=#10B981,#00FF88,#22C55E&grid=1&background=0d1117&grid_color=30363d
             
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
