@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808t61c3f2dc7e695c7c1n2eb1gs3d/header.svg" width="100%"/>
+[<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808t61c3f2dc7e695c7c1n2eb1gs3d/header.svg" width="100%"/>](https://capsule-render.vercel.app/api?type=cylinder&height=250&color=gradient&reversal=true&section=header&fontAlign=50)
 
 # 🚀 Grigorev Ivan
 
