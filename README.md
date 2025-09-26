@@ -9,6 +9,11 @@
 
 ---
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/GrigorevIvan/GrigorevIvan/blob/output/github-snake.svg)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Backend & Databases**
@@ -33,6 +38,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrigorevIvan)
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
