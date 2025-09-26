@@ -10,7 +10,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/GrigorevIvan/GrigorevIvan/blob/output/github-snake.svg)
+![Snake animation](https://github.com/GrigorevIvan/GrigorevIvan/blob/output/github-snake.svg?palette=github-dark)
 
 ---
 
