@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://capsule-render.vercel.app/api?type=shadow&color=gradient&height=120)" />
+<img src="![Capsule](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello&height=150&fontSize=60&animation=fadeIn)" />
 
 # 🚀 Grigorev Ivan
 
