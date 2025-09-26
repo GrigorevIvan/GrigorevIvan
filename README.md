@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ivan 👋 
+# Hi there, I'm Grigorev Ivan 👋 
 
 
 ### <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=400&lines=Computer+science+student;From+Russia+🇷🇺;Full-stack+developer" alt="Typing SVG" />
