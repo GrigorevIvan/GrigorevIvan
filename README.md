@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Computer Science Student | 🇷🇺 Russia
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00D4FF&center=true&vCenter=true&width=450&lines=Passionate+Developer;Always+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00D4FF&center=true&vCenter=true&width=450&lines=IT+Student;Always+Learning+New+Tech)
 
 </div>
 
