@@ -1,11 +1,12 @@
 <div align="center">
 
-# 🌟 Welcome to My Profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
 
-### **I'm Grigorev Ivan** 
-#### 💫 *Computer Science Student from Russia* 
+# 🚀 Grigorev Ivan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=30&lines=Hello+World!;Nice+to+meet+you+%F0%9F%91%8B" alt="Typing Animation" />
+### 👨‍💻 Computer Science Student | 🇷🇺 Russia
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00D4FF&center=true&vCenter=true&width=450&lines=Passionate+Developer;Always+Learning+New+Tech)
 
 </div>
 
