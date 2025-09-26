@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Grigorev Ivan 😊
+# Hi there, I'm Grigorev Ivan 👋
 
-## 🇷🇺 From Russia
+### 🇷🇺 From Russia | 💻 Computer Science Student
 
-<img src="https://komarev.com/ghpvc/?username=GrigorevIvan&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF6B6B&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+amazing+together" alt="Typing SVG" />
 
 </div>
 
