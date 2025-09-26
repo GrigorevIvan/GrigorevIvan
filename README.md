@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Grigorev Ivan 👋
+# 🌟 Welcome to My Profile!
 
-### 🇷🇺 From Russia | 💻 Computer Science Student
+### **I'm Grigorev Ivan** 
+#### 💫 *Computer Science Student from Russia* 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF6B6B&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+amazing+together" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=30&lines=Hello+World!;Nice+to+meet+you+%F0%9F%91%8B" alt="Typing Animation" />
 
 </div>
 
