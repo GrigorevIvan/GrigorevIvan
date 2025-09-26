@@ -9,8 +9,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/GrigorevIvan/GrigorevIvan/blob/output/github-snake-dark.svg?palette=github-dark)
+## 📫 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-ivangrigr2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangrigr2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrigorevIvan)
 
 ---
 
@@ -30,14 +32,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
-
-## 📫 Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-ivangrigr2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangrigr2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrigorevIvan)
-
----
 
 ## 📊 GitHub Stats
 
@@ -49,6 +43,8 @@
 </div>
 
 ---
+
+![Snake animation](https://github.com/GrigorevIvan/GrigorevIvan/blob/output/github-snake-dark.svg?palette=github-dark)
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=GrigorevIvan&color=blue&style=flat)
 
