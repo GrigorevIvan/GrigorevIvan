@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=gradient&reversal=true&text=Grigorev+Ivan&fontSize=30&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=120&color=gradient&reversal=true&text=Grigorev+Ivan&fontSize=30&fontColor=000000" width="100%"/>
 
 ### 👨‍💻 Computer Science Student | Russia
 
