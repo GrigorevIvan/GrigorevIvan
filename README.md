@@ -43,8 +43,6 @@
 </div>
 
 ---
-![Snake Animation](https://github.com/GrigorevIvan/GrigorevIvan/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=GrigorevIvan&color=blue&style=flat)
 
