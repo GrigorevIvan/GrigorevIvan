@@ -2,9 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&reversal=true" width="100%"/>
 
+# 👋 Grigorev Ivan
 ### 👨‍💻 Computer Science Student | Russia
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00D4FF&center=true&vCenter=true&width=450&lines=IT+Student;Always+Learning+New+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=00D4FF&center=true&width=500&lines=IT+Student;Always+Learning+New+Tech;Passionate+Developer)
 
 </div>
 
